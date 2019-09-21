@@ -1,0 +1,1 @@
+﻿For running consol solution, Web Api solution should be started first

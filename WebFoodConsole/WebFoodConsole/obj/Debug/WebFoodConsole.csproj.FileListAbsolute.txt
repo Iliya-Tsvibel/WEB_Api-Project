@@ -1,0 +1,12 @@
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\WebFoodConsole.exe.config
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\WebFoodConsole.exe
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\WebFoodConsole.pdb
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\obj\Debug\WebFoodConsole.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\obj\Debug\WebFoodConsole.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\obj\Debug\WebFoodConsole.exe
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\obj\Debug\WebFoodConsole.pdb
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\itsvibel\source\repos\WebFoodConsole\WebFoodConsole\obj\Debug\WebFoodConsole.csproj.CopyComplete
